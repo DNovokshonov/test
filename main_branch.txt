@@ -1,6 +1,6 @@
-version 1.0.2
+version 1.0.3
 
 test begin
 add some text, some fix in version
 in branch fix1
-
+in branch fix2
